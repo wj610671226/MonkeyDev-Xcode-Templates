@@ -30,9 +30,9 @@
 				<key>MonkeyDevDeviceIP</key>
 				<string>127.0.0.1</string>
 				<key>MonkeyDevDevicePort</key>
-				<string>3333</string>
+				<string>2222</string>
 				<key>MonkeyDevDevicePassword</key>
-				<string>alpine</string>
+				<string></string>
 				<key>MonkeyDevInstallOnProfiling</key>
 				<string>YES</string>
 				<key>MonkeyDevCopyOnBuild</key>
